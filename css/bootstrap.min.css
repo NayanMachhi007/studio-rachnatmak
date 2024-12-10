@@ -42,6 +42,15 @@ template {
     display: none
 }
 
+/* added by rahul  */
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-3{
+    width: 25%;
+}
+/*end added by rahul  */
 a {
     background-color: transparent
 }
