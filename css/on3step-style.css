@@ -918,7 +918,7 @@ ul#crumbs li:last-child:after {
 .heading{
     font-size: 1.89rem;
     font-weight: 600;
-    color:#b4b4b4;
+    /* color:#b4b4b4; */
     text-transform: uppercase;
 }
 .heading:after{
