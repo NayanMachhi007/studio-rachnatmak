@@ -3891,7 +3891,80 @@ body.trans-header .menu-line2.white, body.trans-header .menu-line1.white, body.t
     font-size: 2.6rem;
   }
 
- 
-  /* media query link added */
 
+  .border-bottom{
+    height: 1px;
+    background:rgb(112, 110, 110);    
+    width: 100%;
+    margin: 3rem 0 0 0;
+  }
+
+  .heading-h1{
+    position: relative;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    padding: 1rem 0;
+  }
+
+  .heading-h1::before{
+    position: absolute;
+    bottom:0;
+    content: "";
+    height: 2px;
+    width: 5%;
+    background:#dd4425;     
+    text-align: center;
+  }
+
+  .text-center{
+    text-align: center;
+  }
+
+  .py-2{
+    padding: 2rem 0;
+  }
   
+  .pb-2{
+    padding-bottom: 2rem;
+  }
+
+  img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+
+
+  .image-about{
+    width: 50rem;
+    height: 50rem;
+    position: relative;    
+  }
+
+  .image-about .about-image{
+    width: 40rem;
+    height: 40rem;
+    padding: 1rem 0;
+    position: absolute;
+    top:14%;
+  }
+
+  .about-us-image{
+    position: absolute;
+    top:2rem;
+    left:10rem;
+    z-index: -1;
+  }
+
+
+  .about-image2 {
+    position: absolute;
+    left: -48px;
+    width: 25rem;
+    height: 28rem;
+    top: 25%;
+  }
+
+  .px-2{
+    padding:2rem 0;
+  }
