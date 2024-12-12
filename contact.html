@@ -99,12 +99,33 @@
         }
         .elementor-widget-para-container{
             position: absolute; 
-            background-color: #9d9d9d;
+            background-color: #dd4425;
             max-width: 35rem;
             padding: 50px;
             top: 11rem; 
             left: 25rem;
         }
+        .custom-heading{
+          font-size: 1.89rem;
+          font-weight: 600;
+          text-transform: uppercase;
+          color: white;
+        }
+        .color-white{
+          color: white;
+        }
+
+        .custom-heading::after{
+          content: "";
+          width: 7rem;
+          position: relative;
+          display: block;
+          padding-bottom: 30px;
+          margin-bottom: 30px;
+          border-bottom: .28rem solid #999;
+        }
+
+
         /* variation css */
         .image-opacity-widget{
           opacity: 0.4;
@@ -438,10 +459,11 @@
                     <img src="./img/contact/48_Dick_Place.jpg" alt="elementor-widget">
                    </div>
                   <div class="elementor-widget-para-container">
-                    <h1 class="heading no-top">
+                    
+                    <h1 class=" no-top custom-heading">
                       Meet Us
                     </h1>
-                    <p class="content">
+                    <p class="content color-white">
                         We're here to help you transform your space into a reflection of your unique style. Whether you have a specific vision or need expert guidance, our team of experienced interior designers is ready to assist you. Reach out to us today to schedule a consultation and let's bring your dream space to life.
                      <!-- We Built Quality <br> Interior of Design -->
                     </p>
