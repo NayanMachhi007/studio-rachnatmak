@@ -918,7 +918,7 @@ ul#crumbs li:last-child:after {
 .heading{
     font-size: 1.89rem;
     font-weight: 600;
-    color:#b4b4b4;
+    /* color:#b4b4b4; */
     text-transform: uppercase;
 }
 .heading:after{
@@ -2361,6 +2361,9 @@ img.mfp-img {
         padding: 0
     }
 }
+.contact-form-1{
+    margin-top: 0;
+}
 @media all and (max-width:900px) {
     .mfp-arrow {
         -webkit-transform: scale(.75);
@@ -2378,6 +2381,12 @@ img.mfp-img {
         padding-left: 6px;
         padding-right: 6px
     }
+    .contact-form-1{
+
+        margin-top: 65rem;
+
+      }
+    
 }
 .mfp-ie7 .mfp-img {
     padding: 0
@@ -3881,5 +3890,8 @@ body.trans-header .menu-line2.white, body.trans-header .menu-line1.white, body.t
     padding: 0 0.5rem;
     font-size: 2.6rem;
   }
+
+ 
+  /* media query link added */
 
   
