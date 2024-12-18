@@ -2361,6 +2361,7 @@ img.mfp-img {
         padding: 0
     }
 }
+
 @media all and (max-width:900px) {
     .mfp-arrow {
         -webkit-transform: scale(.75);
@@ -2378,7 +2379,17 @@ img.mfp-img {
         padding-left: 6px;
         padding-right: 6px
     }
+    
 }
+.contact-form-1{
+    margin-top: 0;
+}
+/* @media (max-width: 920px)
+{
+    .contact-form-1{
+        margin-top: 650px;
+      }    
+} */
 .mfp-ie7 .mfp-img {
     padding: 0
 }
