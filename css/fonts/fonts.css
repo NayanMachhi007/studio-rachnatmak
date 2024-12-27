@@ -66,6 +66,40 @@
 }
 
 @font-face {
+  font-family: "Gt-Eestis-Text";
+  src: url("./GT-Eesti-Text-Bold-Italic-Trial.otf");
+  src: url("./GT-Eesti-Text-Bold-Trial.otf");
+  src: url("./GT-Eesti-Text-Book-Italic-Trial.otf");
+  src: url("./GT-Eesti-Text-Book-Trial.otf");
+  src: url("./GT-Eesti-Text-Light-Italic-Trial.otf");
+  src: url("./GT-Eesti-Text-Light-Trial.otf");
+  src: url("./GT-Eesti-Text-Medium-Italic-Trial.otf");
+  src: url("./GT-Eesti-Text-Medium-Trial.otf");
+  src: url("./GT-Eesti-Text-Regular-Italic-Trial.otf");
+  src: url("./GT-Eesti-Text-Regular-Trial.otf");
+  src: url("./GT-Eesti-Text-Thin-Italic-Trial.otf");
+  src: url("./GT-Eesti-Text-ULight-Italic-Trial.otf");
+  src: url("./GT-Eesti-Text-UltraLight-Trial.otf");
+}
+
+@font-face {
+  font-family: "Matter";
+  src: url("./Matter-Bold.ttf");
+  src: url("./Matter-BoldItalic.ttf");
+  src: url("./Matter-Heavy.ttf");
+  src: url("./Matter-HeavyItalic.ttf");
+  src: url("./Matter-Light.ttf");
+  src: url("./Matter-LightItalic.ttf");
+  src: url("./Matter-Medium.ttf");
+  src: url("./Matter-MediumItalic.ttf");
+  src: url("./Matter-Regular.ttf");
+  src: url("./Matter-RegularItalic.ttf");
+  src: url("./Matter-SemiBold.ttf");
+  src: url("./Matter-SemiBoldItalic.ttf");
+}
+/* 
+
+@font-face {
   font-family:"Freight-Text-Italic";
   src: url('./freight-text-pro_400_italic.ttf');
 }
@@ -325,7 +359,7 @@
 @font-face {
   font-family:"Matter-SemiBoldItalic";
   src: url('./Matter-SemiBoldItalic.ttf');
-}
+} */
 
 
 
