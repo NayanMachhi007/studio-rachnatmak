@@ -1,0 +1,63 @@
+
+/* matter  */
+.matter-light{
+    Font-Family : Matter, sans-serif ;
+   font-style : normal ;    
+   font-weight : 300 ;
+}
+
+.matter-regular{
+    Font-Family : Matter, sans-serif ;
+   font-style : normal ;    
+   font-weight : 400 ;
+}
+.matter-bold{
+    Font-Family : Matter, sans-serif ;
+   font-style : normal ;    
+   font-weight : 700 ;
+}
+
+/* for para */
+.allrounder-antiqua-light{
+    Font-Family : Allrounder Antiqua , sans-serif;
+    font-style: normal;
+    font-weight : 300;
+}
+
+
+/* heading and para */
+.Bell-ragular{
+    font-family : Bell , sans-serif;
+    font-style : normal;
+    font-weight : 400;
+}
+
+/* 3.0 heading */
+.the-seasons-regular{
+   font-family: the-seasons , sans-serif;
+   font-Style : normal;
+   font-Weight : 400;
+}
+/* 3.1 for para */
+.gt-esti-light{
+
+    font-family : gt-esti , sans-serif;
+    font-style : normal;
+    font-weight : 300;
+}
+
+
+/*4.0 heading  */
+.Fortescue-bold{
+    Font-Family : Fortescue , sans-serif;
+    font-Style : normal;
+   /* - Size : 32px */
+   font-weight : 600;
+}
+   /*4.1 heading  */
+   .Buenos_Aires_Light-regular{
+    Font-Family : Buenos Aires Light , sans-serif;
+    font-Style : normal;
+   /* - Size : 16px */
+    font-Weight : 400;
+   }
