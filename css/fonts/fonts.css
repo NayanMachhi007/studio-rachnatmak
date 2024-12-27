@@ -1,5 +1,69 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap&family=Rajdhani:wght@300;400;500;600;700&display=swap');
 
+@font-face {
+  font-family:"Matter-Bold";
+  src: url('./Matter-Bold.ttf');
+}
+
+@font-face {
+  font-family:"Matter-BoldItalic";
+  src: url('./Matter-BoldItalic.ttf');
+}
+
+@font-face {
+  font-family:"Matter-Heavy";
+  src: url('./Matter-Heavy.ttf');
+}
+
+@font-face {
+  font-family:"Matter-HeavyItalic";
+  src: url('./Matter-HeavyItalic.ttf');
+}
+
+@font-face {
+  font-family:"Matter-Light";
+  src: url('./Matter-Light.ttf');
+}
+
+@font-face {
+  font-family:"Matter-LightItalic";
+  src: url('./Matter-LightItalic.ttf');
+}
+
+@font-face {
+  font-family:"Matter-Medium";
+  src: url('./Matter-Medium.ttf');
+}
+
+@font-face {
+  font-family:"Matter-MediumItalic";
+  src: url('./Matter-MediumItalic.ttf');
+}
+
+
+@font-face {
+  font-family:"Matter-Regular";
+  src: url('./Matter-Regular.ttf');
+}
+
+@font-face {
+  font-family:"Matter-RegularItalic";
+  src: url('./Matter-RegularItalic.ttf');
+}
+
+@font-face {
+  font-family:"Matter-SemiBold";
+  src: url('./Matter-SemiBold.ttf');
+}
+
+
+@font-face {
+  font-family:"Matter-SemiBoldItalic";
+  src: url('./Matter-SemiBoldItalic.ttf');
+}
+
+
+
 .merriweather-light {
   font-family: "Merriweather", serif;
   font-weight: 300;
