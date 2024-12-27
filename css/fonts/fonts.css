@@ -2,6 +2,31 @@
 
 
 @font-face {
+  font-family:"Fontspring-Demo-TheSeasons-bd";
+  src: url('./Fontspring-DEMO-theseasons-bd.otf');
+}
+
+@font-face {
+  font-family:"Fontspring-Demo-TheSeasons-bdit";
+  src: url('./Fontspring-DEMO-theseasons-bdit.otf');
+}
+
+@font-face {
+  font-family:"Fontspring-Demo-TheSeasons-it";
+  src: url('./Fontspring-DEMO-theseasons-it.otf');
+}
+
+@font-face {
+  font-family:"Fontspring-Demo-TheSeasons-itit";
+  src: url('./Fontspring-DEMO-theseasons-ltit.otf');
+}
+
+@font-face {
+  font-family:"Fontspring-Demo-TheSeasons-Regular";
+  src: url('./Fontspring-DEMO-theseasons-reg.otf');
+}
+
+@font-face {
   font-family:"Bell-Mt";
   src: url('./Bell\ MT.ttf');
 }
