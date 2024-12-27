@@ -2,6 +2,90 @@
 
 
 @font-face {
+  font-family:"Beyond-Infinity";
+  src: url('./Beyond\ Infinity\ -\ Demo.ttf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-Light-Italic-Trail";
+  src: url('./GT-Eesti-Display-Light-Italic-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-Light-Trial";
+  src: url('./GT-Eesti-Display-Light-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-Medium-Italic-Trial";
+  src: url('./GT-Eesti-Display-Medium-Italic-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-Medium-Trial";
+  src: url('./GT-Eesti-Display-Medium-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-Regular-Italic-Trial";
+  src: url('./GT-Eesti-Display-Regular-Italic-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-Regular-Trial";
+  src: url('./GT-Eesti-Display-Regular-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-Regular-Trial";
+  src: url('./GT-Eesti-Display-Regular-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-Thin-Italic-Trial";
+  src: url('./GT-Eesti-Display-Thin-Italic-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-Thin-Trial";
+  src: url('./GT-Eesti-Display-Thin-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-UltraBold-Italic-Trial";
+  src: url('./GT-Eesti-Display-UltraBold-Italic-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-UltraBold-Trial";
+  src: url('./GT-Eesti-Display-UltraBold-Trial.otf');
+}
+
+
+@font-face {
+  font-family:"GT-Eesti-Display-UltraLight-Italic-Trial";
+  src: url('./GT-Eesti-Display-UltraLight-Italic-Trial.otf');
+}
+
+@font-face {
+  font-family:"GT-Eesti-Display-UltraLight-Trial";
+  src: url('./GT-Eesti-Display-UltraLight-Trial.otf');
+}
+
+
+@font-face {
+  font-family:"GT-Eesti-Text-Book-Italic-Trail";
+  src: url('./GT-Eesti-Text-Bold-Trial.otf');
+}
+
+
+
+@font-face {
+  font-family:"GT-Eesti-Display-Bold-Italic-Trial";
+  src: url('./GT-Eesti-Display-Bold-Italic-Trial.otf');
+}
+
+@font-face {
   font-family:"Fontspring-Demo-TheSeasons-bd";
   src: url('./Fontspring-DEMO-theseasons-bd.otf');
 }
