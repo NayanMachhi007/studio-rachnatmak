@@ -49,7 +49,7 @@
 
 /*4.0 heading  */
 .Fortescue-bold{
-    Font-Family : Fortescue , sans-serif;
+    Font-Family : 'Fortescue-Regular';
     font-Style : normal;
    /* - Size : 32px */
    font-weight : 600;
@@ -60,4 +60,33 @@
     font-Style : normal;
    /* - Size : 16px */
     font-Weight : 400;
+   }
+
+   /* 5.0 heading */
+   .Alice-regular{
+    Font-Family : Alice;
+   font-style : normal ; 
+   /* - Size : 30px */
+   font-Weight : 600;
+   }
+
+   /* 5.1 sub-heading and para */
+   .freight-text-pro-regular{
+    Font-Family : freight-text-pro;
+    font-style : normal;
+   /* - Size : 16px */
+   font-weight : 400;
+   }
+
+
+   .AoKBuenosAiresBoldItalic{
+    font-family: 'AoKBuenosAiresBoldItalic';
+   }
+
+   /* try */
+   .GT-Eesti-Display-Light-Italic-Trail{
+    font-family: 'GT-Eesti-Display-Light-Italic-Trail';
+   }
+   .Fontspring-Demo-TheSeasons-bd{
+    font-family: 'Fontspring-Demo-TheSeasons-bd';
    }
