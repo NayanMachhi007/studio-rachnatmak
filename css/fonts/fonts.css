@@ -1,6 +1,71 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap&family=Rajdhani:wght@300;400;500;600;700&display=swap');
 
 @font-face {
+  font-family: "Alice";
+  src: url("./Alice-Regular.ttf");
+}
+
+@font-face {
+  font-family: "AllRounderAntiquaTest";
+  src: url("./AllrounderAntiquaTest-Bold.otf");
+  src: url("./AllrounderAntiquaTest-BoldItalic.otf");
+  src: url("./AllrounderAntiquaTest-Book.otf");
+  src: url("./AllrounderAntiquaTest-Book.otf");
+  src: url("./AllrounderAntiquaTest-BookItalic.otf");
+  src: url("./AllrounderAntiquaTest-Medium.otf");
+  src: url("./AllrounderAntiquaTest-MediumItalic.otf");
+  src: url("./AllrounderAntiquaTest-Regular.otf");
+  src: url("./AllrounderAntiquaTest-RegularItalic.otf");
+}
+
+@font-face {
+  font-family: "AokbuenosAires";
+  src: url("./AOKBuenosAiresBold.ttf");
+  src: url("./AOKBuenosAiresBoldItalic.ttf");
+  src: url("./AOKBuenosAiresRegular.ttf");
+  src: url("./AOKBuenosAiresRegularItalic.ttf");
+  src: url("./AOKBuenosAiresSemiBold.ttf");
+  src: url("./AOKBuenosAiresSemiBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "FontSpring";
+  src: url("./Fontspring-DEMO-theseasons-bd.otf");
+  src: url("./Fontspring-DEMO-theseasons-bdit.otf");
+  src: url("./Fontspring-DEMO-theseasons-it.otf");
+  src: url("./Fontspring-DEMO-theseasons-ltit.otf");
+  src: url("./Fontspring-DEMO-theseasons-reg.otf");
+}
+
+@font-face {
+  font-family: "Fortescue";
+  src: url("./Fortescue-Regular.ttf");
+}
+
+@font-face {
+  font-family:"Freight";
+  src: url("./freight-text-pro_400_italic.ttf");
+}
+
+@font-face {
+  font-family: "GtEestiDisplay";
+  src: url("./GT-Eesti-Display-Bold-Italic-Trial.otf");
+  src: url("./GT-Eesti-Display-Bold-Trial.otf");
+  src: url("./GT-Eesti-Display-Light-Italic-Trial.otf");
+  src: url("./GT-Eesti-Display-Light-Trial.otf");
+  src: url("./GT-Eesti-Display-Medium-Italic-Trial.otf");
+  src: url("./GT-Eesti-Display-Medium-Trial.otf");
+  src: url("./GT-Eesti-Display-Regular-Italic-Trial.otf");
+  src: url("./GT-Eesti-Display-Regular-Trial.otf");
+  src: url("./GT-Eesti-Display-Thin-Italic-Trial.otf");
+  src: url("./GT-Eesti-Display-Thin-Trial.otf");
+  src: url("./GT-Eesti-Display-UltraBold-Italic-Trial.otf");
+  src: url("./GT-Eesti-Display-UltraBold-Trial.otf");
+  src: url("./GT-Eesti-Display-UltraLight-Italic-Trial.otf");
+  src: url("./GT-Eesti-Display-UltraLight-Trial.otf");
+}
+
+@font-face {
   font-family:"Freight-Text-Italic";
   src: url('./freight-text-pro_400_italic.ttf');
 }
