@@ -1,0 +1,92 @@
+1. https://studioashby.com/about/
+   - Font-Family : Matter, sans-serif
+   - Style : normal
+   - Size : 13px
+   - Weight : 400
+   **** Heading Fonts ****
+
+1.1 https://studioashby.com/about/
+   - Font-Family : Allrounder Antiqua , sans-serif
+   - Style : normal
+   - Size : 13px
+   - Weight : 350
+   **** Para Fonts ****
+
+2. https://www.lukeedwardhall.com/projects/camden-apartment
+   - Font-Family : Bell , sans-serif
+   - Style : normal
+   - Size : 22px
+   - Weight : 400
+   **** Heading Fonts ****
+
+2.1 https://www.lukeedwardhall.com/projects/camden-apartment
+   - Font-Family : Bell , sans-serif
+   - Style : normal
+   - Size : 16px
+   - Weight : 400
+   **** Para Fonts **** 
+
+3. https://spirostore.com.au/
+   - Font-Family : the-seasons , sans-serif
+   - Style : normal
+   - Size : 32px
+   - Weight : 400
+   **** Heading Fonts ****
+
+3.1 https://spirostore.com.au/
+   - Font-Family : the-seasons , sans-serif
+   - Style : normal
+   - Size : 16px
+   - Weight : 400
+   **** Sub Heading Fonts **** 
+
+3.1.2 https://spirostore.com.au/
+   - Font-Family : gt-esti , sans-serif
+   - Style : normal
+   - Size : 12px
+   - Weight : 375
+   **** Para Fonts **** 
+
+3. https://www.sarahvanrenen.com/project/notting-hill-townhouse/
+   - Font-Family : Beyond Infinity , sans-serif
+   - Style : normal
+   - Size : 84px
+   - Weight : 400
+   **** Heading Fonts ****
+
+3.1 https://www.sarahvanrenen.com/project/notting-hill-townhouse/
+   - Font-Family : Sangbleu Kingdom , sans-serif
+   - Style : normal
+   - Size : 16px
+   - Weight : 400
+   **** Para Fonts **** 
+
+4. https://www.retrouvius.com/projects/parisian-apartment/
+   - Font-Family : Fortescue , sans-serif
+   - Style : normal
+   - Size : 32px
+   - Weight : 600
+   **** Heading Fonts ****
+
+4.1 https://www.retrouvius.com/projects/parisian-apartment/
+   - Font-Family : Buenos Aires Light , sans-serif
+   - Style : normal
+   - Size : 16px
+   - Weight : 400
+   **** Sub-Heading And Para Fonts **** 
+
+
+5. https://www.studiohollond.com/interiors/
+   - Font-Family : Alice , sans-serif
+   - Style : normal
+   - Size : 30px
+   - Weight : 600
+   **** Heading Fonts ****
+
+5.1 https://www.studiohollond.com/interiors/
+   - Font-Family : freight-text-pro , sans-serif
+   - Style : normal
+   - Size : 16px
+   - Weight : 400
+   **** Sub-Heading And Para Fonts **** 
+
